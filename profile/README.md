@@ -5,5 +5,5 @@ We specialize in complex electrical and mechanical projects where safety is para
 Proudly Canadian. 🍁
 
 Locations:
-- Burnaby, British Columbia  _(Metro Vancouver)_
+- [Burnaby, British Columbia](https://maps.app.goo.gl/EjqaNoynYWgdjXqN6)  _(Metro Vancouver)_
 - Calgary, Alberta
