@@ -7,4 +7,3 @@ Proudly Canadian. 🍁
 Locations:
 - Burnaby, British Columbia  _(Metro Vancouver)_
 - Calgary, Alberta
-- _and clients across the globe..._
