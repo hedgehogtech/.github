@@ -1,7 +1,10 @@
 ## 🦔 Hedgehog Technologies 🦔
 
-[**Hedgehog Technologies**](https://hedgehogtech.com) is a multidisciplinary engineering firm with a global impact. We specialize in complex electrical and mechanical projects where safety is paramount.
+[**Hedgehog Technologies**](https://hedgehogtech.com) is a multidisciplinary engineering firm with a global impact. We specialize in complex electrical and mechanical projects where safety is paramount. 
 
-Proudly 🍁 Canadian 🍁 teams located in:
+Proudly Canadian. 🍁
+
+Locations:
 - Burnaby, British Columbia  _(Metro Vancouver)_
 - Calgary, Alberta
+- _and clients across the globe..._
